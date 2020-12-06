@@ -1,0 +1,6 @@
+framework module GSHCategoryKit {
+  umbrella header "GSHCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

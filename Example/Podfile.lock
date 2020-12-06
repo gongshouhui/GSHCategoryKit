@@ -1,0 +1,16 @@
+PODS:
+  - GSHCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - GSHCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  GSHCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GSHCategoryKit: eb858236b0d71523a07d5359de7ff7aeb4aa99d5
+
+PODFILE CHECKSUM: 312f3b37642b13bd5d58b3fd5fac519a83e1534c
+
+COCOAPODS: 1.9.3
